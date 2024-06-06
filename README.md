@@ -13,7 +13,7 @@ A guide to get Yuzu or Ryujinx running on your PC. Download links included.
 
 **Note:** If you need help with something you don't understand, or your issue is not listed, please join our discord server and ask for help. It will be much easier to assist you there.
 
-### Due to a DMCA notice by Nintendo that took down the original repo i say fuck Nintendo and here is the links with keys firmware and all copyright links back. fuck Nintendo dont let them win the battle over free information.
+### Due to a DMCA notice by Nintendo that took down the original repo i say fuck Nintendo and here is the links with keys firmware and all copyright links back. Fuck Nintendo dont let them win the battle over free information.
 
 ## Discord, Subreddit, and Megathread links:
 
