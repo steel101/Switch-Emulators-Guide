@@ -26,6 +26,15 @@ aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE4LjAuMV9LZXlz
 Note: This contains older keys too. Only download the latest.
 
 ### Firmware
+18.0.1 and older firmware links
+
+aHR0cHM6Ly9naXRodWIuY29tL1RIWm9yaWEvTlhfRmlybXdhcmUvcmVsZWFzZXM=
+
+copy of first link just a backup.
+
+aHR0cHM6Ly9naXRodWIuY29tL3N0ZWVsMTAxL05YX0Zpcm13YXJl
+
+18.0.0 and older firmwares links
 
 aHR0cHM6Ly9kYXJ0aHN0ZXJuaWUubmV0L3N3aXRjaC1maXJtd2FyZXMv
 
