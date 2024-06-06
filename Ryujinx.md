@@ -58,9 +58,7 @@ Once you download the release, just extract it and run the Ryujinx executable. O
 When you launch Ryujinx for the first time, an error for missing components will pop up. To fix that, you need the prod.keys.
 
 **Keys:** 
-18.0.0 aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE4LjAuMF9LZXlz
-17.0.1 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM0ExdDFXY2U0TG92ZjlLN3VVekJ0ZUJ3eFNEMnJmMW8vdmlldz91c3A9c2hhcmluZw==
-17.0.0 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN3ktYXNOdHZuNWJic2pUODVZZGNpaGc1eDBBWmpQYTAvdmlldz91c3A9c2hhcmluZw==
+18.0.1 aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE4LjAuMV9LZXlz 18.0.0 aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE4LjAuMF9LZXlz 17.0.1 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM0ExdDFXY2U0TG92ZjlLN3VVekJ0ZUJ3eFNEMnJmMW8vdmlldz91c3A9c2hhcmluZw== 17.0.0 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN3ktYXNOdHZuNWJic2pUODVZZGNpaGc1eDBBWmpQYTAvdmlldz91c3A9c2hhcmluZw==
 Note: This contains older keys too. Only download the latest.
 
 
@@ -73,6 +71,16 @@ Restart Ryujinx and you shouldn't get the error anymore. If you still do, you me
 ### Firmware
 
 **Firmware**
+18.0.1 and older firmware links
+
+aHR0cHM6Ly9naXRodWIuY29tL1RIWm9yaWEvTlhfRmlybXdhcmUvcmVsZWFzZXM=
+
+copy of first link just a backup.
+
+aHR0cHM6Ly9naXRodWIuY29tL3N0ZWVsMTAxL05YX0Zpcm13YXJl
+
+18.0.0 and older firmwares links
+
 aHR0cHM6Ly9kYXJ0aHN0ZXJuaWUubmV0L3N3aXRjaC1maXJtd2FyZXMv
 
 Open Ryujinx, go to the top left corner and click on "Tools", then under "Install Firmware" click "Install a firmware from XCI or ZIP". Navigate to the firmware zip file and click open. When prompted if you want to install firmware, click yes. **DO NOT** extract the firmware zip as it is not necessary.
