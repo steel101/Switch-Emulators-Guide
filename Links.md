@@ -19,15 +19,18 @@ To avoid the common headaches while pirating, we recommend downloading the follo
 
 ### Keys
 
-Unavailable.
+18.0.0 aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE4LjAuMF9LZXlz
+17.0.1 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM0ExdDFXY2U0TG92ZjlLN3VVekJ0ZUJ3eFNEMnJmMW8vdmlldz91c3A9c2hhcmluZw==
+17.0.0 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN3ktYXNOdHZuNWJic2pUODVZZGNpaGc1eDBBWmpQYTAvdmlldz91c3A9c2hhcmluZw==
+Note: This contains older keys too. Only download the latest.
 
 ### Firmware
 
-Unavailable.
+aHR0cHM6Ly9kYXJ0aHN0ZXJuaWUubmV0L3N3aXRjaC1maXJtd2FyZXMv
 
 ### Games
 
-Unavailable.
+aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3Av
 
 This shouldn't need to be said, but if the downloaded file is in an .exe format, **DO NOT RUN IT**! You've likely accidentally downloaded a virus due to a malicious redirect or pop up.
 
