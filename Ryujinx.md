@@ -58,7 +58,11 @@ Once you download the release, just extract it and run the Ryujinx executable. O
 When you launch Ryujinx for the first time, an error for missing components will pop up. To fix that, you need the prod.keys.
 
 **Keys:** 
-18.0.1 aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE4LjAuMV9LZXlz 18.0.0 aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE4LjAuMF9LZXlz 17.0.1 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM0ExdDFXY2U0TG92ZjlLN3VVekJ0ZUJ3eFNEMnJmMW8vdmlldz91c3A9c2hhcmluZw== 17.0.0 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN3ktYXNOdHZuNWJic2pUODVZZGNpaGc1eDBBWmpQYTAvdmlldz91c3A9c2hhcmluZw==
+18.0.1 aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE4LjAuMV9LZXlz 
+18.0.0 aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE4LjAuMF9LZXlz 
+17.0.1 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM0ExdDFXY2U0TG92ZjlLN3VVekJ0ZUJ3eFNEMnJmMW8vdmlldz91c3A9c2hhcmluZw== 
+17.0.0 aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN3ktYXNOdHZuNWJic2pUODVZZGNpaGc1eDBBWmpQYTAvdmlldz91c3A9c2hhcmluZw==
+
 Note: This contains older keys too. Only download the latest.
 
 
@@ -95,7 +99,7 @@ Now on to installing games. Here is a list of trusted websites to get switch gam
 
 **Games**
 
-aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS54eXovCgpodHRwczovL25zd2dhbWUuY29tL2NhdGVnb3J5L3N3aXRjaC8KCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3Av
+aHR0cHM6Ly9ueGJyZXcuY29tLwpodHRwczovL25zdzJ1Lnh5ei8KaHR0cHM6Ly9uc3dnYW1lLmNvbS9jYXRlZ29yeS9zd2l0Y2gvCmh0dHBzOi8vd3d3LnppcGVydG8uY29tL25pbnRlbmRvLXN3aXRjaC1uc3AvCmh0dHBzOi8vc3dpdGNocm9tLm5ldC8KaHR0cHM6Ly9rcm5sLnZpcC9uaW50ZW5kby1zd2l0Y2gtcm9tcwpodHRwczovL3d3dy5yb21zcGVkaWEuY29tL3JvbXMvbmludGVuZG8tc3dpdGNoCmh0dHBzOi8vbmludGVuZG9zd2l0Y2hyb21zLm9yZy9uaW50ZW5kby1zd2l0Y2gtcm9tcy8KaHR0cHM6Ly9yb21zZHJvaWQuY29tL3JvbXMvbmludGVuZG8tc3dpdGNoLwpodHRwczovL3d3dy5ibHVlcm9tcy53cy9zd2l0Y2gK
 
 **Note:** It is recommended to get an adblocker before visiting any of these websites. You can get one at https://ublockorigin.com/ 
 
