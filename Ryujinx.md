@@ -12,30 +12,30 @@ All the links in this guide are encoded in base64. Whenever you come across a li
 
 Most if not all the stuff you download will be in a compressed format (i.e. .7zip, .zip or .rar). You need to extract them with either [7zip](https://www.7-zip.org) or [WinRAR](https://www.win-rar.com/download.html?&L=0)
 
-If you just want the downloads you can get them from [here](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Links.md)
+If you just want the downloads you can get them from [here](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Links.md)
 
 * * *
 
 ### Table of Contents
 
-- [Section 1: Installing the Emulator](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-1-installing-the-emulator)
-- [Section 2: Installing Keys and Firmware](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-2-installing-keys-and-firmware)
-   + [Keys](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#keys)
+- [Section 1: Installing the Emulator](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-1-installing-the-emulator)
+- [Section 2: Installing Keys and Firmware](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-2-installing-keys-and-firmware)
+   + [Keys](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#keys)
    + [Firmware](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#firmware)
-- [Section 3: Installing Games, Updates and DLC](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-3-installing-games-updates-and-dlc)
-   + [Loading Games into Ryujinx](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#loading-games-into-ryujinx)
-   + [Loading Updates and DLCs](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#loading-updates-and-dlcs)
-- [Section 4: Optimizations for best performance](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-4-optimizations-for-best-performance)
-   + [Settings for all GPUs](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#settings-for-all-gpus)
-   + [Nvidia GPU settings](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#nvidia-gpu-settings)
-   + [AMD GPU settings](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#amd-gpu-settings)
-   + [Intel GPU settings](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#intel-gpu-settings)
-- [Section 5: Installing Mods, Saves and Shaders](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-5-installing-mods-saves-and-shaders)
-   + [Mods](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#mods)
-   + [Shaders](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#shaders)
-   + [Saves](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#saves)
-- [Section 6: Misc](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-6-misc)
-   + [Fixes for errors](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md#fixes-for-errors)
+- [Section 3: Installing Games, Updates and DLC](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-3-installing-games-updates-and-dlc)
+   + [Loading Games into Ryujinx](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#loading-games-into-ryujinx)
+   + [Loading Updates and DLCs](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#loading-updates-and-dlcs)
+- [Section 4: Optimizations for best performance](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-4-optimizations-for-best-performance)
+   + [Settings for all GPUs](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#settings-for-all-gpus)
+   + [Nvidia GPU settings](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#nvidia-gpu-settings)
+   + [AMD GPU settings](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#amd-gpu-settings)
+   + [Intel GPU settings](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#intel-gpu-settings)
+- [Section 5: Installing Mods, Saves and Shaders](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-5-installing-mods-saves-and-shaders)
+   + [Mods](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#mods)
+   + [Shaders](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#shaders)
+   + [Saves](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#saves)
+- [Section 6: Misc](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#section-6-misc)
+   + [Fixes for errors](https://github.com/steel101/Switch-Emulators-Guide/blob/main/Ryujinx.md#fixes-for-errors)
 
 * * * 
 
