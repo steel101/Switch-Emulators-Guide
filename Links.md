@@ -32,6 +32,9 @@ aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE4LjAuMV9LZXlz
 Note: This contains older keys too. Only download the latest.
 
 ### Firmware
+18.1.0
+https://darthsternie.net/switch-firmwares/
+
 18.0.1 and older firmware links
 
 aHR0cHM6Ly9naXRodWIuY29tL1RIWm9yaWEvTlhfRmlybXdhcmUvcmVsZWFzZXM=
