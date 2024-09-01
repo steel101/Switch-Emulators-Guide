@@ -18,6 +18,8 @@ To avoid the common headaches while pirating, we recommend downloading the follo
 # Main Links 
 
 ### Keys
+18.1.0
+https://prodkeys.net/yuzu-prod-keys-11/
 18.0.1
 aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE4LjAuMV9LZXlz
 
