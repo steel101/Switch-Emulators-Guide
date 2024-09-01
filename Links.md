@@ -19,7 +19,8 @@ To avoid the common headaches while pirating, we recommend downloading the follo
 
 ### Keys
 18.1.0
-https://prodkeys.net/yuzu-prod-keys-11/
+aHR0cHM6Ly9wcm9ka2V5cy5uZXQveXV6dS1wcm9kLWtleXMtMTEv
+
 18.0.1
 aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzEyOEJCXzE4LjAuMV9LZXlz
 
@@ -33,7 +34,7 @@ Note: This contains older keys too. Only download the latest.
 
 ### Firmware
 18.1.0
-https://darthsternie.net/switch-firmwares/
+aHR0cHM6Ly9kYXJ0aHN0ZXJuaWUubmV0L3N3aXRjaC1maXJtd2FyZXMv
 
 18.0.1 and older firmware links
 
