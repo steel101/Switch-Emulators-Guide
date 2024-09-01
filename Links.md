@@ -1,4 +1,4 @@
-links as of June 7th 2024
+links as of August 31 2024
 # Before Downloading!
 
 To avoid the common headaches while pirating, we recommend downloading the following browser addons. Even safe download sites are dangerous without proper safety measures.
